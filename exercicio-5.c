@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <locale.h>
+/*Crie um programa que verifique se um ano é bissexto ou
+não, permitindo que o usuário insira o ano.*/
 
 int main(){
     setlocale(LC_ALL, "portuguese");
